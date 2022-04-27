@@ -1,0 +1,26 @@
+[
+    {
+        "coinName": "Bitcoin",
+        "coinSymbol": "BTC",
+        "quantity": "0.00",
+        "price": "0.00",
+        "type": "buy",
+        "date": "2022-04-01T00:00:00.000Z"
+    },
+    {
+        "coinName": "Ethereum",
+        "coinSymbol": "ETH",
+        "quantity": "0.00",
+        "price": "0.00",
+        "type": "sell",
+        "date": "2022-04-02T00:00:00.000Z"
+    },
+    {
+        "coinName": "ICP",
+        "coinSymbol": "ICP",
+        "quantity": "1.00",
+        "price": "16.90",
+        "type": "buy",
+        "date": "2022-04-03T00:00:00.000Z"
+    }
+]
